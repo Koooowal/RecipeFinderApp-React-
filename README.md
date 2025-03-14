@@ -3,7 +3,6 @@
 **An interactive platform for discovering and exploring delicious recipes!**  
 🔎 Search for your favorite meals, explore ingredients, and follow step-by-step cooking instructions.  
 
-![Recipe Finder](https://github.com/Koooowal/RecipeFinderApp-React-)  
 
 ---
 
