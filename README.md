@@ -3,7 +3,7 @@
 **An interactive platform for discovering and exploring delicious recipes!**  
 🔎 Search for your favorite meals, explore ingredients, and follow step-by-step cooking instructions.  
 
-![Recipe Finder](https://source.unsplash.com/1000x500/?food,cooking)  
+![Recipe Finder](https://github.com/Koooowal/RecipeFinderApp-React-)  
 
 ---
 
